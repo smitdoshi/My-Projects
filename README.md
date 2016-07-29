@@ -1,3 +1,3 @@
 # My-Projects
-This is a repository has some of master's projects.
+This is a repository, it has master's projects.
 
