@@ -1,2 +1,3 @@
 # My-Projects
-This is a repository to show case all my projects.
+This is a repository has some of master's projects.
+
